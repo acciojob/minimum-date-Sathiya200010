@@ -1,5 +1,11 @@
 function minDate(dates) {
   //write you code here
+	let min ="";
+	for(let i =0;i< dates.length; i++){
+		if(a[i]>a[i]){
+			min =a[i];
+		}
+	}return min;
 }
 
 // Do not change the code
